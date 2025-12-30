@@ -96,7 +96,7 @@ def run_server():
     print("✅ Starting SIMPLE IP Checker API...")
     print("🌐 Web interface can connect to: http://localhost:8080")
     print("📡 Example: http://localhost:8080/check?ip=8.8.8.8")
-    server = HTTPServer(('localhost', 8080), SimpleHandler)
+    server = HTTPServer(('0.0.0.0', 8080), SimpleHandler)
     server.serve_forever()
 
 if __name__ == '__main__':
