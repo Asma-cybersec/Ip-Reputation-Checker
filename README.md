@@ -43,6 +43,4 @@ python ip_checker.py
 
 .Integrate multiple threat intelligence sources
 
-.Create web interface version
-
 .Add scheduled monitoring capabilities
