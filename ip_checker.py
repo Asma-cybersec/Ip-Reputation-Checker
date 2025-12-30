@@ -11,7 +11,7 @@ import json
 import sys
 
 # Make API request
-API_KEY = "35ed6fe08a3a749a85872fcd465208a1c5fca7c692b9f53991a71e872f20927ae593445920fd9947"
+API_KEY = "Your API key here"
 API_URL = "https://api.abuseipdb.com/api/v2/check"
 
 print("✅ Security Tool Initialized!")
