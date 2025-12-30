@@ -15,7 +15,7 @@ A Python security tool I built from scratch to check IP threat intelligence usin
 - Identified organizations: Google, Microsoft, Apple, US Department of Defense
 
 ## 🛠️ My Technical Implementation
-```python
+
 # Key features I implemented:
 - API integration with error handling
 - IPv4 validation and formatting
@@ -23,7 +23,7 @@ A Python security tool I built from scratch to check IP threat intelligence usin
 - Rate limiting and timeout management
 - Interactive menu system
 
-##How to Use My Tool...
+## How to Use My Tool...
 # Clone my project
 git clone https://github.com/YOUR-USERNAME/ip-reputation-checker.git
 
