@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.env
+.venv/
+venv/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# API keys (NEVER upload!)
+config.py
+secrets.py
+*.key
+.env
+
+# Generated reports
+*.csv
+*.log
+
+# System files
+.DS_Store
+Thumbs.db

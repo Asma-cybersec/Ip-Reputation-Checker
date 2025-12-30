@@ -1,0 +1,10 @@
+# Sample IPs for testing
+8.8.8.8          # Google DNS (typically clean)
+1.1.1.1          # Cloudflare DNS (clean)
+185.220.101.34   # Known malicious IP (Tor exit node)
+45.129.56.200    # Often reported as malicious
+192.168.1.1      # Local network address
+
+# Additional test IPs
+103.10.197.50
+5.188.206.164
