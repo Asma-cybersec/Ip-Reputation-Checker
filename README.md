@@ -16,7 +16,7 @@ A Python security tool I built from scratch to check IP threat intelligence usin
 
 ## 🛠️ My Technical Implementation
 
-# Key features I implemented:
+#. Key features I implemented:
 - API integration with error handling
 - IPv4 validation and formatting
 - CSV report generation with timestamps
